@@ -1,0 +1,117 @@
+2025-01-07 23:52:04,065 - INFO - === Weather and Traffic Data Collection Tool Started ===
+2025-01-07 23:52:07,310 - INFO - Scheduled collection times:
+2025-01-07 23:52:07,310 - INFO - - 00:00
+2025-01-07 23:52:07,310 - INFO - - 01:00
+2025-01-07 23:52:07,310 - INFO - - 02:00
+2025-01-07 23:52:07,310 - INFO - - 03:00
+2025-01-07 23:52:07,310 - INFO - - 04:00
+2025-01-07 23:52:07,310 - INFO - - 05:00
+2025-01-07 23:52:07,311 - INFO - - 06:00
+2025-01-07 23:52:07,311 - INFO - - 06:15
+2025-01-07 23:52:07,311 - INFO - - 06:30
+2025-01-07 23:52:07,311 - INFO - - 06:45
+2025-01-07 23:52:07,311 - INFO - - 07:00
+2025-01-07 23:52:07,311 - INFO - - 07:15
+2025-01-07 23:52:07,311 - INFO - - 07:30
+2025-01-07 23:52:07,311 - INFO - - 07:45
+2025-01-07 23:52:07,311 - INFO - - 08:00
+2025-01-07 23:52:07,311 - INFO - - 08:15
+2025-01-07 23:52:07,311 - INFO - - 08:30
+2025-01-07 23:52:07,311 - INFO - - 08:45
+2025-01-07 23:52:07,311 - INFO - - 09:00
+2025-01-07 23:52:07,311 - INFO - - 09:15
+2025-01-07 23:52:07,311 - INFO - - 09:30
+2025-01-07 23:52:07,311 - INFO - - 09:45
+2025-01-07 23:52:07,311 - INFO - - 10:00
+2025-01-07 23:52:07,312 - INFO - - 10:30
+2025-01-07 23:52:07,312 - INFO - - 11:00
+2025-01-07 23:52:07,312 - INFO - - 11:30
+2025-01-07 23:52:07,312 - INFO - - 12:00
+2025-01-07 23:52:07,312 - INFO - - 12:30
+2025-01-07 23:52:07,312 - INFO - - 13:00
+2025-01-07 23:52:07,312 - INFO - - 13:30
+2025-01-07 23:52:07,312 - INFO - - 14:00
+2025-01-07 23:52:07,312 - INFO - - 14:30
+2025-01-07 23:52:07,312 - INFO - - 15:00
+2025-01-07 23:52:07,312 - INFO - - 15:30
+2025-01-07 23:52:07,312 - INFO - - 16:00
+2025-01-07 23:52:07,312 - INFO - - 16:15
+2025-01-07 23:52:07,312 - INFO - - 16:30
+2025-01-07 23:52:07,312 - INFO - - 16:45
+2025-01-07 23:52:07,312 - INFO - - 17:00
+2025-01-07 23:52:07,313 - INFO - - 17:15
+2025-01-07 23:52:07,313 - INFO - - 17:30
+2025-01-07 23:52:07,313 - INFO - - 17:45
+2025-01-07 23:52:07,313 - INFO - - 18:00
+2025-01-07 23:52:07,313 - INFO - - 18:15
+2025-01-07 23:52:07,313 - INFO - - 18:30
+2025-01-07 23:52:07,313 - INFO - - 18:45
+2025-01-07 23:52:07,313 - INFO - - 19:00
+2025-01-07 23:52:07,313 - INFO - - 19:15
+2025-01-07 23:52:07,313 - INFO - - 19:30
+2025-01-07 23:52:07,313 - INFO - - 19:45
+2025-01-07 23:52:07,313 - INFO - - 20:00
+2025-01-07 23:52:07,313 - INFO - - 20:30
+2025-01-07 23:52:07,314 - INFO - - 21:00
+2025-01-07 23:52:07,314 - INFO - - 21:30
+2025-01-07 23:52:07,314 - INFO - - 22:00
+2025-01-07 23:52:07,314 - INFO - - 22:30
+2025-01-07 23:52:07,314 - INFO - - 23:00
+2025-01-07 23:52:07,314 - INFO - Starting data collection...
+2025-01-07 23:52:07,314 - INFO - Collecting weather data for PLATEFORME_LOGISTIQUE
+2025-01-07 23:52:09,997 - INFO - ✅ Weather data collected for PLATEFORME_LOGISTIQUE
+2025-01-07 23:52:09,998 - INFO - Data saved to collected_data/weather_PLATEFORME_LOGISTIQUE_20250107_235209.json
+2025-01-07 23:52:09,998 - INFO - Collecting weather data for TIMONE
+2025-01-07 23:52:13,881 - INFO - ✅ Weather data collected for TIMONE
+2025-01-07 23:52:13,882 - INFO - Data saved to collected_data/weather_TIMONE_20250107_235213.json
+2025-01-07 23:52:13,882 - INFO - Collecting weather data for NORD
+2025-01-07 23:52:15,486 - INFO - ✅ Weather data collected for NORD
+2025-01-07 23:52:15,488 - INFO - Data saved to collected_data/weather_NORD_20250107_235215.json
+2025-01-07 23:52:15,488 - INFO - Collecting weather data for CONCEPTION
+2025-01-07 23:52:16,940 - INFO - ✅ Weather data collected for CONCEPTION
+2025-01-07 23:52:16,942 - INFO - Data saved to collected_data/weather_CONCEPTION_20250107_235216.json
+2025-01-07 23:52:16,942 - INFO - Collecting weather data for SAINTE_MARGUERITE
+2025-01-07 23:52:18,591 - INFO - ✅ Weather data collected for SAINTE_MARGUERITE
+2025-01-07 23:52:18,591 - INFO - Data saved to collected_data/weather_SAINTE_MARGUERITE_20250107_235218.json
+2025-01-07 23:52:18,591 - INFO - Collecting traffic data from Plateforme to TIMONE
+2025-01-07 23:52:19,783 - INFO - ✅ Traffic data collected for route to TIMONE
+2025-01-07 23:52:19,784 - INFO - Data saved to collected_data/traffic_PF_to_TIMONE_20250107_235219.json
+2025-01-07 23:52:19,785 - INFO - Collecting traffic data from Plateforme to NORD
+2025-01-07 23:52:21,243 - INFO - ✅ Traffic data collected for route to NORD
+2025-01-07 23:52:21,244 - INFO - Data saved to collected_data/traffic_PF_to_NORD_20250107_235221.json
+2025-01-07 23:52:21,244 - INFO - Collecting traffic data from Plateforme to CONCEPTION
+2025-01-07 23:52:22,269 - INFO - ✅ Traffic data collected for route to CONCEPTION
+2025-01-07 23:52:22,271 - INFO - Data saved to collected_data/traffic_PF_to_CONCEPTION_20250107_235222.json
+2025-01-07 23:52:22,271 - INFO - Collecting traffic data from Plateforme to SAINTE_MARGUERITE
+2025-01-07 23:52:23,511 - INFO - ✅ Traffic data collected for route to SAINTE_MARGUERITE
+2025-01-07 23:52:23,512 - INFO - Data saved to collected_data/traffic_PF_to_SAINTE_MARGUERITE_20250107_235223.json
+2025-01-07 23:52:23,512 - INFO - Data collection completed in 16.20 seconds
+2025-01-08 00:00:23,518 - INFO - Starting data collection...
+2025-01-08 00:00:23,521 - INFO - Collecting weather data for PLATEFORME_LOGISTIQUE
+2025-01-08 00:00:24,849 - INFO - ✅ Weather data collected for PLATEFORME_LOGISTIQUE
+2025-01-08 00:00:24,851 - INFO - Data saved to collected_data/weather_PLATEFORME_LOGISTIQUE_20250108_000024.json
+2025-01-08 00:00:24,851 - INFO - Collecting weather data for TIMONE
+2025-01-08 00:00:26,364 - INFO - ✅ Weather data collected for TIMONE
+2025-01-08 00:00:26,366 - INFO - Data saved to collected_data/weather_TIMONE_20250108_000026.json
+2025-01-08 00:00:26,366 - INFO - Collecting weather data for NORD
+2025-01-08 00:00:28,696 - INFO - ✅ Weather data collected for NORD
+2025-01-08 00:00:28,697 - INFO - Data saved to collected_data/weather_NORD_20250108_000028.json
+2025-01-08 00:00:28,697 - INFO - Collecting weather data for CONCEPTION
+2025-01-08 00:00:30,509 - INFO - ✅ Weather data collected for CONCEPTION
+2025-01-08 00:00:30,510 - INFO - Data saved to collected_data/weather_CONCEPTION_20250108_000030.json
+2025-01-08 00:00:30,510 - INFO - Collecting weather data for SAINTE_MARGUERITE
+2025-01-08 00:00:32,738 - INFO - ✅ Weather data collected for SAINTE_MARGUERITE
+2025-01-08 00:00:32,739 - INFO - Data saved to collected_data/weather_SAINTE_MARGUERITE_20250108_000032.json
+2025-01-08 00:00:32,739 - INFO - Collecting traffic data from Plateforme to TIMONE
+2025-01-08 00:00:33,531 - INFO - ✅ Traffic data collected for route to TIMONE
+2025-01-08 00:00:33,532 - INFO - Data saved to collected_data/traffic_PF_to_TIMONE_20250108_000033.json
+2025-01-08 00:00:33,532 - INFO - Collecting traffic data from Plateforme to NORD
+2025-01-08 00:00:34,425 - INFO - ✅ Traffic data collected for route to NORD
+2025-01-08 00:00:34,426 - INFO - Data saved to collected_data/traffic_PF_to_NORD_20250108_000034.json
+2025-01-08 00:00:34,426 - INFO - Collecting traffic data from Plateforme to CONCEPTION
+2025-01-08 00:00:35,187 - INFO - ✅ Traffic data collected for route to CONCEPTION
+2025-01-08 00:00:35,188 - INFO - Data saved to collected_data/traffic_PF_to_CONCEPTION_20250108_000035.json
+2025-01-08 00:00:35,188 - INFO - Collecting traffic data from Plateforme to SAINTE_MARGUERITE
+2025-01-08 00:00:35,954 - INFO - ✅ Traffic data collected for route to SAINTE_MARGUERITE
+2025-01-08 00:00:35,956 - INFO - Data saved to collected_data/traffic_PF_to_SAINTE_MARGUERITE_20250108_000035.json
+2025-01-08 00:00:35,956 - INFO - Data collection completed in 12.44 seconds

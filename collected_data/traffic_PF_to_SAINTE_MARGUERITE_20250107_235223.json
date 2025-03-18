@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-01-07T23:52:23.510172",
+  "main_route": {
+    "distance_meters": 16882,
+    "time_seconds": 1364,
+    "traffic_delay_seconds": 0,
+    "traffic_confidence": 0,
+    "route_legs": [
+      {
+        "distance": 16882,
+        "travel_time": 1364,
+        "delay": 0
+      }
+    ]
+  },
+  "traffic_flow": {
+    "current_speed": 33,
+    "free_flow_speed": 33,
+    "current_travel_time": 143,
+    "free_flow_travel_time": 143,
+    "confidence": 1
+  }
+}

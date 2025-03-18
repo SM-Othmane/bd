@@ -1,0 +1,47 @@
+{
+  "timestamp": "2025-01-08T09:40:08.498574",
+  "current": {
+    "temperature": 6.89,
+    "feels_like": 5.12,
+    "humidity": 73,
+    "pressure": 1015,
+    "wind_speed": 2.53,
+    "wind_direction": 219,
+    "description": "few clouds",
+    "rain_1h": 0,
+    "visibility": 10000
+  },
+  "air_quality": {
+    "aqi": 2,
+    "components": {
+      "co": 594.14,
+      "no": 9.5,
+      "no2": 41.13,
+      "o3": 17.17,
+      "so2": 7.57,
+      "pm2_5": 19.91,
+      "pm10": 25.08,
+      "nh3": 0.83
+    }
+  },
+  "forecast_3h": [
+    {
+      "timestamp": "2025-01-08 09:00:00",
+      "temperature": 6.89,
+      "precipitation_prob": 0,
+      "rain_3h": 0
+    },
+    {
+      "timestamp": "2025-01-08 12:00:00",
+      "temperature": 9.46,
+      "precipitation_prob": 0,
+      "rain_3h": 0
+    },
+    {
+      "timestamp": "2025-01-08 15:00:00",
+      "temperature": 11.73,
+      "precipitation_prob": 0,
+      "rain_3h": 0
+    }
+  ]
+}
